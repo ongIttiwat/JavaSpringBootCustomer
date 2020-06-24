@@ -1,0 +1,45 @@
+# Created at 2563-06-22T12:23:59.488
+java.io.FileNotFoundException: D:\Users\s91857\IdeaProjects\customer\D:\Users\s91857\IdeaProjects\customer\target\coverage-reports\jacoco-unit.exec (The filename, directory name, or volume label syntax is incorrect)
+
+# Created at 2563-06-22T12:23:59.488
+	at java.io.FileOutputStream.open0(Native Method)
+
+# Created at 2563-06-22T12:23:59.488
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+
+# Created at 2563-06-22T12:23:59.488
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+
+# Created at 2563-06-22T12:23:59.488
+	at org.jacoco.agent.rt.internal_28bab1d.output.FileOutput.openFile(FileOutput.java:67)
+
+# Created at 2563-06-22T12:23:59.498
+	at org.jacoco.agent.rt.internal_28bab1d.output.FileOutput.startup(FileOutput.java:49)
+
+# Created at 2563-06-22T12:23:59.498
+	at org.jacoco.agent.rt.internal_28bab1d.Agent.startup(Agent.java:122)
+
+# Created at 2563-06-22T12:23:59.500
+	at org.jacoco.agent.rt.internal_28bab1d.Agent.getInstance(Agent.java:50)
+
+# Created at 2563-06-22T12:23:59.500
+	at org.jacoco.agent.rt.internal_28bab1d.PreMain.premain(PreMain.java:45)
+
+# Created at 2563-06-22T12:23:59.500
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+# Created at 2563-06-22T12:23:59.500
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+
+# Created at 2563-06-22T12:23:59.500
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+# Created at 2563-06-22T12:23:59.500
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+# Created at 2563-06-22T12:23:59.500
+	at sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:386)
+
+# Created at 2563-06-22T12:23:59.500
+	at sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:401)
+
